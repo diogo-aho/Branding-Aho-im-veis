@@ -22,7 +22,7 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 
 - [ ] Obter os **arquivos vetoriais originais** (AI, SVG, PDF) com a KM Designer.
 - [ ] Definir a área de proteção e o tamanho mínimo.
-- [ ] Gerar as versões nas novas cores (ver [`logos/README.md`](logos/README.md)).
+- [x] Versões nas novas cores geradas: 4 tipos × 12 cores, em SVG e PNG (ver [`logos/README.md`](logos/README.md)).
 
 ## 4. Elementos de apoio
 
@@ -44,5 +44,3 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 | 2026-10 | Cores renomeadas: Pedra líquen e Preto musgo | Diogo |
 | 2026-10 | Tipografia aprovada: Manrope + Geist Mono | Diogo |
 | 2026-10 | Retirada do Bege areia; Pedra `#D8DACD` e Preto `#1C211E` com pigmento verde; proporções 50/30/9/8/2/1 | Diogo |
-
-> ⚠️ Os arquivos em `logos/2026/` ainda usam a Pedra e o Preto antigos e incluem versões sobre Bege areia. Precisam ser regerados.

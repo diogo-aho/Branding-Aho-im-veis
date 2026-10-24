@@ -2,7 +2,7 @@
 
 ## `2026/`: arquivos oficiais da paleta 2026
 
-Mesmo formato dos originais da KM Designer: SVG quadrado de 91,44 × 91,44 mm (viewBox 9144), com fundo colorido. A palavra "imóveis" está convertida em desenho vetorial, então não depende da fonte Manrope.
+Paleta 2026 aprovada. Mesmo formato dos originais da KM Designer: SVG quadrado de 91,44 × 91,44 mm (viewBox 9144), com fundo colorido. A palavra "imóveis" está convertida em desenho vetorial, então não depende da fonte Manrope.
 
 ![Visão geral](2026/visao-geral.png)
 
@@ -13,22 +13,24 @@ Mesmo formato dos originais da KM Designer: SVG quadrado de 91,44 × 91,44 mm (v
 | `horizontal-imoveis/` | Símbolo + "Aho" + "imóveis" | `originais/12` |
 | `vertical-imoveis/` | Símbolo sobre "Aho imóveis" | `originais/14` |
 
-Cada pasta tem as 10 versões de cor:
+Cada pasta tem `svg/` e `png/` (2048 × 2048 px), com 12 versões de cor:
 
 | Nº | Logo | Fundo |
 |---|---|---|
-| 01 | Preto uva passa | Branco mineral |
+| 01 | Preto musgo | Branco mineral |
 | 02 | Verde folha | Branco mineral |
-| 03 | Preto uva passa | Bege areia |
-| 04 | Verde folha | Bege areia |
-| 05 | Branco mineral | Preto uva passa |
-| 06 | Pedra neutra | Preto uva passa |
+| 03 | Preto musgo | Pedra líquen |
+| 04 | Verde folha | Pedra líquen |
+| 05 | Branco mineral | Preto musgo |
+| 06 | Pedra líquen | Preto musgo |
 | 07 | Branco mineral | Verde folha |
-| 08 | Verde vibrante | Preto uva passa |
-| 09 | Preto uva passa | Verde vibrante |
-| 10 | Verde vibrante + sombra lateral suave | Pedra neutra (somente em peças grandes) |
+| 08 | Verde vibrante | Preto musgo |
+| 09 | Preto musgo | Verde vibrante |
+| 10 | Verde vibrante + sombra lateral suave | Pedra líquen (somente em peças grandes) |
+| 11 | Branco mineral | Cinza ardósia verde |
+| 12 | Verde vibrante | Cinza ardósia verde |
 
-Nome dos arquivos: `<tipo>-<nº>-<logo>-sobre-<fundo>.svg`.
+Nome dos arquivos: `<tipo>-<nº>-<logo>-sobre-<fundo>.svg` / `.png`.
 
 ## `originais/`
 
@@ -41,5 +43,4 @@ O quadro usado na aprovação das cores.
 ## Pendente
 
 - Versões com fundo transparente
-- Exportações em PNG
 - Área de proteção e tamanho mínimo
