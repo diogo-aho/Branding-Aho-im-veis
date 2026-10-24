@@ -32,6 +32,24 @@ Cada pasta tem `svg/` e `png/` (2048 × 2048 px), com 12 versões de cor:
 
 Nome dos arquivos: `<tipo>-<nº>-<logo>-sobre-<fundo>.svg` / `.png`.
 
+## `2026-transparente/`: logo sem fundo
+
+Para usar sobre fotos, no Canva, em documentos e no site. Recorte justo com margem de 4%; PNG com 2048 px no lado maior.
+
+![Transparentes](2026-transparente/visao-geral.png)
+
+Mesmos 4 tipos, cada um com `svg/` e `png/`, em 5 cores:
+
+| Cor do logo | Use sobre |
+|---|---|
+| Preto musgo | Branco mineral, Pedra líquen, fotos claras |
+| Verde folha | Branco mineral, Pedra líquen (grande) |
+| Branco mineral | Preto musgo, ardósia, Verde folha, fotos escuras |
+| Pedra líquen | Preto musgo, fotos escuras |
+| Verde vibrante | Preto musgo, ardósia — nunca sobre fundo claro |
+
+Nome dos arquivos: `<tipo>-<cor>-transparente.svg` / `.png`.
+
 ## `originais/`
 
 Os 23 SVGs de 2023 (CorelDRAW), guardados sem alteração. O nº 16 não foi recebido.
@@ -42,5 +60,4 @@ O quadro usado na aprovação das cores.
 
 ## Pendente
 
-- Versões com fundo transparente
 - Área de proteção e tamanho mínimo
