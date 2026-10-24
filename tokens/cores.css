@@ -1,0 +1,22 @@
+/* Aho imóveis: paleta 2026 (em revisão). Fonte: docs/02-cores.md */
+:root {
+  /* Neutros */
+  --aho-branco-mineral: #FAF8F4;
+  --aho-bege-areia: #EEE7DA;
+  --aho-pedra-neutra: #DBD6CB;
+  --aho-preto-uva-passa: #202020;
+
+  /* Marca */
+  --aho-verde-folha: #4F7A45;
+  --aho-verde-vibrante: #DBFF00;
+
+  /* Papéis */
+  --aho-fundo: var(--aho-branco-mineral);
+  --aho-fundo-secundario: var(--aho-bege-areia);
+  --aho-borda: var(--aho-pedra-neutra);
+  --aho-texto: var(--aho-preto-uva-passa);
+  --aho-texto-invertido: var(--aho-branco-mineral);
+  --aho-acao: var(--aho-verde-folha);
+  --aho-acao-texto: var(--aho-branco-mineral);
+  --aho-destaque: var(--aho-verde-vibrante); /* somente sobre fundo escuro */
+}

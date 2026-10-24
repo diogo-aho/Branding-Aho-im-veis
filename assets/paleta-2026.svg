@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="Figtree, Manrope, Helvetica, Arial, sans-serif">
+  <title>Aho imóveis: paleta 2026</title>
+  <rect x="0" y="0" width="500" height="390" fill="#FAF8F4"/>
+  <rect x="500" y="0" width="500" height="390" fill="#EEE7DA"/>
+  <rect x="0" y="390" width="337" height="210" fill="#DBD6CB"/>
+  <rect x="337" y="390" width="328" height="210" fill="#202020"/>
+  <rect x="665" y="390" width="228" height="210" fill="#4F7A45"/>
+  <rect x="893" y="390" width="107" height="210" fill="#DBFF00"/>
+  <g fill="#202020">
+    <text x="36" y="56" font-size="28">Branco mineral</text><text x="36" y="86" font-size="18" opacity=".6">#FAF8F4</text><text x="36" y="350" font-size="56">39%</text>
+    <text x="536" y="56" font-size="28">Bege areia</text><text x="536" y="86" font-size="18" opacity=".6">#EEE7DA</text><text x="536" y="350" font-size="56">35%</text>
+    <text x="36" y="436" font-size="22">Pedra neutra</text><text x="36" y="462" font-size="15" opacity=".6">#DBD6CB</text><text x="36" y="570" font-size="40">12%</text>
+    <text x="909" y="430" font-size="15">Verde</text><text x="909" y="450" font-size="15">vibrante</text><text x="909" y="472" font-size="12" opacity=".7">#DBFF00</text><text x="909" y="570" font-size="40">1%</text>
+  </g>
+  <g fill="#FAF8F4">
+    <text x="373" y="436" font-size="22">Preto uva passa</text><text x="373" y="462" font-size="15" opacity=".7">#202020</text><text x="373" y="570" font-size="40">11%</text>
+    <text x="701" y="436" font-size="22">Verde folha</text><text x="701" y="462" font-size="15" opacity=".8">#4F7A45</text><text x="701" y="570" font-size="40">2%</text>
+  </g>
+</svg>
