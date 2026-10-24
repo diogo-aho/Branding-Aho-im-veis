@@ -13,6 +13,7 @@ Repositório central da identidade visual da **Aho imóveis**: guia de marca, co
 | Nova paleta 2026 | **Aprovada** · [`docs/02-cores.md`](docs/02-cores.md) |
 | Tipografia | **Aprovada**: Manrope + Geist Mono · [`docs/03-tipografia.md`](docs/03-tipografia.md) |
 | Logotipo e símbolo | Mantidos; Preto musgo como padrão · [`docs/04-logotipo-e-simbolo.md`](docs/04-logotipo-e-simbolo.md) |
+| Apresentação Branding 2026 | **Pronta**: 38 slides · [`apresentacao/`](apresentacao/README.md) |
 | Arquivos do logo 2026 | 4 tipos × 12 cores, SVG + PNG · [`logos/README.md`](logos/README.md) |
 
 As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
@@ -30,6 +31,7 @@ As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
 │   ├── 04-logotipo-e-simbolo.md
 │   ├── 05-tom-de-voz.md
 │   └── 06-aplicacoes.md
+├── apresentacao/             ← apresentação Branding 2026 (PDF) + imagens e créditos
 ├── guia/
 │   └── 03-tipografia.pdf     ← guia de tipografia em slides (+ visão geral em PNG)
 ├── tokens/
