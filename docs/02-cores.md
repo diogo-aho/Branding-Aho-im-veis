@@ -11,8 +11,8 @@
 | Branco mineral | `#FAF8F4` | 250 248 244 | **38%** | Fundo principal |
 | Bege areia | `#EEE7DA` | 238 231 218 | **32%** | Fundo secundário, blocos, cards |
 | Pedra neutra | `#DBD6CB` | 219 214 203 | **10%** | Divisórias, bordas, áreas de apoio |
-| Cinza ardósia verde | `#59625A` | 89 98 90 | **8%** | Texto de apoio, fundos de seção, ponte entre neutros e verdes |
 | Preto uva passa | `#202020` | 32 32 32 | **9%** | Texto, logotipo, fundos escuros pontuais |
+| Cinza ardósia verde | `#59625A` | 89 98 90 | **8%** | Texto de apoio, fundos de seção, ponte entre neutros e verdes |
 | Verde folha | `#4F7A45` | 79 122 69 | **2%** | Cor de marca: botões, links, símbolo |
 | Verde vibrante | `#DBFF00` | 219 255 0 | **1%** | Destaque: selos, chamadas, detalhes sobre escuro |
 

@@ -4,8 +4,8 @@
     "branco-mineral": { "$type": "color", "$value": "#FAF8F4", "$description": "Fundo principal · 38%" },
     "bege-areia": { "$type": "color", "$value": "#EEE7DA", "$description": "Fundo secundário · 32%" },
     "pedra-neutra": { "$type": "color", "$value": "#DBD6CB", "$description": "Bordas e apoio · 10%" },
-    "cinza-ardosia": { "$type": "color", "$value": "#59625A", "$description": "Texto de apoio, fundos de seção · 8%" },
     "preto-uva-passa": { "$type": "color", "$value": "#202020", "$description": "Texto e logo · 9%" },
+    "cinza-ardosia": { "$type": "color", "$value": "#59625A", "$description": "Texto de apoio, fundos de seção · 8%" },
     "verde-folha": { "$type": "color", "$value": "#4F7A45", "$description": "Cor de marca, ações · 2%" },
     "verde-vibrante": { "$type": "color", "$value": "#DBFF00", "$description": "Destaque, somente sobre escuro · 1%" }
   },
