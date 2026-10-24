@@ -18,15 +18,11 @@ O desenho não foi alterado. A palavra "imóveis" foi convertida de texto para d
 | 07 | Branco mineral | Verde folha |
 | 08 | Verde vibrante | Preto uva passa |
 | 09 | Preto uva passa | Verde vibrante |
+| 10 | Verde vibrante | Pedra neutra ⚠️ |
+| 11 | Verde vibrante | Bege areia ⚠️ |
+| 12 | Pedra neutra | Verde vibrante ⚠️ |
+| 13 | Bege areia | Verde vibrante ⚠️ |
 
-## Criativas (`criativas/`): fundo Preto, logo Pedra, detalhe Verde vibrante
-
-| Arquivo | Ideia |
-|---|---|
-| A · Arco de luz | Meio-contorno sobre o símbolo, como um sol nascendo: "sonhe". |
-| B · Eco | Contorno do símbolo deslocado atrás do sólido, como um movimento ou uma vibração. |
-| C · Base iluminada | A base do símbolo, que acolhe as mãos, em verde vibrante: "realize". |
-| D · O em contorno | O "o" de Aho desenhado só com a linha. |
-| E · Acento | Só o acento do "ó", um ponto mínimo de energia. |
+⚠️ Contraste muito baixo (1,1 a 1,3:1). O logo quase some. Ver [contraste](../../docs/02-cores.md#contraste-wcag-21).
 
 Status: **aguardando aprovação**. Depois da escolha, geramos o kit final com fundo transparente, versões de símbolo isolado e vertical, PNGs e área de proteção.
