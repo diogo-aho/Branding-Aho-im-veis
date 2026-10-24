@@ -7,7 +7,7 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 - [x] **Aprovar a paleta 2026** e as proporções revisadas (50 / 30 / 9 / 8 / 2 / 1). Aprovada.
 - [x] **Retirar o Bege areia** (muito próximo da Pedra). Decidido.
 - [x] **Pigmento verde na Pedra e no Preto.** Decidido: moderado (Pedra `#D8DACD`, Preto `#1C211E`).
-- [ ] **Nomes:** manter "Pedra neutra" e "Preto uva passa" ou renomear (ex.: "Pedra líquen", "Preto musgo")?
+- [x] **Nomes:** renomeadas para **Pedra líquen** (`#D8DACD`) e **Preto musgo** (`#1C211E`).
 - [ ] **Confirmar que o turquesa e o roxo saem totalmente.** Peças antigas (Instagram, papelaria, camisetas) vão precisar ser refeitas.
 - [ ] **Cor principal do logo:** Preto uva passa (sóbrio) ou Verde folha (mais marcante)? Recomendação: Preto como padrão e Verde folha como versão de destaque.
 - [x] **Cinza para texto secundário.** Decidido: **Cinza ardósia verde `#59625A`** (8%). ~~Os três neutros são próximos demais entre si (contraste de 1,2 a 1,4) e nenhum serve para texto de apoio, como legendas, datas ou metragem. Sugestão: `#5E5A52` ("Cinza terra"), que tem contraste ≥ 4,5 sobre Branco, Bege e Pedra.~~
@@ -41,6 +41,7 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 | 2026-10 | Nova paleta proposta (neutros quentes + verdes) | Diogo |
 | 2026-10 | Inclusão do Cinza ardósia verde `#59625A`; proporções revisadas | Diogo |
 | 2026-10 | Paleta 2026 aprovada | Diogo |
+| 2026-10 | Cores renomeadas: Pedra líquen e Preto musgo | Diogo |
 | 2026-10 | Tipografia aprovada: Manrope + Geist Mono | Diogo |
 | 2026-10 | Retirada do Bege areia; Pedra `#D8DACD` e Preto `#1C211E` com pigmento verde; proporções 50/30/9/8/2/1 | Diogo |
 

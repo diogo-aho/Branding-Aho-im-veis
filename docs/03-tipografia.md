@@ -38,7 +38,7 @@ No impresso, use as mesmas proporções. Por exemplo, Display em 40–60pt e tex
 2. **Letras um pouco mais juntas nos títulos** (−0,02 a −0,03em). Nos textos, use o espaçamento normal.
 3. **Mono só para dados.** Use em metragem, número de suítes, preço, código, site e selos ("EXCLUSIVO", "LANÇAMENTO"). **Nunca em frases ou parágrafos.**
 4. **No máximo dois pesos de Manrope por peça.** Por exemplo, 300 no título e 400 no texto, ou 400 no texto e 600 em destaques.
-5. **Cores do texto:** Preto uva passa no texto principal, Cinza ardósia nos textos de apoio e dados, Branco mineral sobre fundos escuros. O Verde vibrante só em palavras de destaque sobre fundo escuro.
+5. **Cores do texto:** Preto musgo no texto principal, Cinza ardósia nos textos de apoio e dados, Branco mineral sobre fundos escuros. O Verde vibrante só em palavras de destaque sobre fundo escuro.
 6. **Frases curtas e serenas** nos títulos ("Um lar para habitar com presença."). O tom de voz completa o que a fonte não diz.
 
 ## Uso no código

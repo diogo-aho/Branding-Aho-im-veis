@@ -2,8 +2,8 @@
 :root {
   /* Neutros */
   --aho-branco-mineral: #FAF8F4;
-  --aho-pedra-neutra: #D8DACD;
-  --aho-preto-uva-passa: #1C211E;
+  --aho-pedra-liquen: #D8DACD;
+  --aho-preto-musgo: #1C211E;
   --aho-cinza-ardosia: #59625A;
 
   /* Marca */
@@ -12,9 +12,9 @@
 
   /* Papéis */
   --aho-fundo: var(--aho-branco-mineral);
-  --aho-fundo-secundario: var(--aho-pedra-neutra);
-  --aho-borda: var(--aho-pedra-neutra);
-  --aho-texto: var(--aho-preto-uva-passa);
+  --aho-fundo-secundario: var(--aho-pedra-liquen);
+  --aho-borda: var(--aho-pedra-liquen);
+  --aho-texto: var(--aho-preto-musgo);
   --aho-texto-apoio: var(--aho-cinza-ardosia);
   --aho-texto-invertido: var(--aho-branco-mineral);
   --aho-acao: var(--aho-verde-folha);
