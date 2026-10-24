@@ -1,24 +1,45 @@
 # Logos
 
-> **Pendente:** os arquivos vetoriais originais (AI, SVG ou PDF) ainda não estão no repositório. Peça à KM Designer (sac.kmdesign@gmail.com) os arquivos-fonte do logotipo "Aho", do símbolo e das versões "Aho imóveis".
+## `2026/`: arquivos oficiais da paleta 2026
 
-## Organização esperada
+Mesmo formato dos originais da KM Designer: SVG quadrado de 91,44 × 91,44 mm (viewBox 9144), com fundo colorido. A palavra "imóveis" está convertida em desenho vetorial, então não depende da fonte Manrope.
 
-```
-logos/
-├── fonte/                 ← arquivos originais (.ai, .fig, .pdf)
-├── svg/
-│   ├── aho-horizontal-preto.svg
-│   ├── aho-horizontal-branco.svg
-│   ├── aho-horizontal-verde-folha.svg
-│   ├── aho-imoveis-vertical-preto.svg
-│   ├── simbolo-preto.svg
-│   ├── simbolo-branco.svg
-│   ├── simbolo-verde-folha.svg
-│   └── simbolo-verde-vibrante.svg
-└── png/                   ← exportações em 512, 1024 e 2048px, fundo transparente
-```
+![Visão geral](2026/visao-geral.png)
 
-Nome dos arquivos: `<versao>-<cor>.<ext>`, em minúsculas e sem acentos.
+| Pasta | Tipo | Original usado como base |
+|---|---|---|
+| `simbolo/` | Símbolo isolado | `originais/04` |
+| `horizontal/` | Símbolo + "Aho" | `originais/08` |
+| `horizontal-imoveis/` | Símbolo + "Aho" + "imóveis" | `originais/12` |
+| `vertical-imoveis/` | Símbolo sobre "Aho imóveis" | `originais/14` |
 
-Com os SVGs em mãos, as variações de cor podem ser geradas automaticamente a partir dos [tokens](../tokens/cores.json).
+Cada pasta tem as 10 versões de cor:
+
+| Nº | Logo | Fundo |
+|---|---|---|
+| 01 | Preto uva passa | Branco mineral |
+| 02 | Verde folha | Branco mineral |
+| 03 | Preto uva passa | Bege areia |
+| 04 | Verde folha | Bege areia |
+| 05 | Branco mineral | Preto uva passa |
+| 06 | Pedra neutra | Preto uva passa |
+| 07 | Branco mineral | Verde folha |
+| 08 | Verde vibrante | Preto uva passa |
+| 09 | Preto uva passa | Verde vibrante |
+| 10 | Verde vibrante + sombra lateral suave | Pedra neutra (somente em peças grandes) |
+
+Nome dos arquivos: `<tipo>-<nº>-<logo>-sobre-<fundo>.svg`.
+
+## `originais/`
+
+Os 23 SVGs de 2023 (CorelDRAW), guardados sem alteração. O nº 16 não foi recebido.
+
+## `2026-proposta/`
+
+O quadro usado na aprovação das cores.
+
+## Pendente
+
+- Versões com fundo transparente
+- Exportações em PNG
+- Área de proteção e tamanho mínimo

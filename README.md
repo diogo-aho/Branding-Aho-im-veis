@@ -13,7 +13,7 @@ Repositório central da identidade visual da **Aho imóveis**: guia de marca, co
 | Nova paleta 2026 | **Em revisão** · [`docs/02-cores.md`](docs/02-cores.md) |
 | Tipografia | Pendente de decisão · [`docs/03-tipografia.md`](docs/03-tipografia.md) |
 | Logotipo e símbolo | Mantidos; cores a redefinir · [`docs/04-logotipo-e-simbolo.md`](docs/04-logotipo-e-simbolo.md) |
-| Arquivos vetoriais do logo | **Faltando** · [`logos/README.md`](logos/README.md) |
+| Arquivos do logo 2026 | 4 tipos × 10 versões · [`logos/README.md`](logos/README.md) |
 
 As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
 
