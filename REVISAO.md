@@ -4,7 +4,7 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 
 ## 1. Paleta
 
-- [ ] **Aprovar a paleta 2026** e as proporções revisadas (50 / 30 / 9 / 8 / 2 / 1).
+- [x] **Aprovar a paleta 2026** e as proporções revisadas (50 / 30 / 9 / 8 / 2 / 1). Aprovada.
 - [x] **Retirar o Bege areia** (muito próximo da Pedra). Decidido.
 - [x] **Pigmento verde na Pedra e no Preto.** Decidido: moderado (Pedra `#D8DACD`, Preto `#1C211E`).
 - [ ] **Nomes:** manter "Pedra neutra" e "Preto uva passa" ou renomear (ex.: "Pedra líquen", "Preto musgo")?
@@ -16,7 +16,7 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 
 ## 2. Tipografia
 
-- [ ] Manter Manrope ou trocar? Proposta: Figtree. Ver [`docs/03-tipografia.md`](docs/03-tipografia.md).
+- [ ] Escolher uma das três direções: 1 Sereno editorial, 2 Acolhimento contemporâneo ou 3 Minimal tecnológico. Ver [`docs/03-tipografia.md`](docs/03-tipografia.md).
 
 ## 3. Logotipo e símbolo
 
@@ -40,6 +40,7 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 |---|---|---|
 | 2026-10 | Nova paleta proposta (neutros quentes + verdes) | Diogo |
 | 2026-10 | Inclusão do Cinza ardósia verde `#59625A`; proporções revisadas | Diogo |
+| 2026-10 | Paleta 2026 aprovada | Diogo |
 | 2026-10 | Retirada do Bege areia; Pedra `#D8DACD` e Preto `#1C211E` com pigmento verde; proporções 50/30/9/8/2/1 | Diogo |
 
 > ⚠️ Os arquivos em `logos/2026/` ainda usam a Pedra e o Preto antigos e incluem versões sobre Bege areia. Precisam ser regerados.

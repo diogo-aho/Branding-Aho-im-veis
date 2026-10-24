@@ -1,5 +1,5 @@
 {
-  "$description": "Aho imóveis: paleta 2026 (em revisão). Fonte: docs/02-cores.md",
+  "$description": "Aho imóveis: paleta 2026 (aprovada). Fonte: docs/02-cores.md",
   "cor": {
     "branco-mineral": { "$type": "color", "$value": "#FAF8F4", "$description": "Fundo principal · 50%" },
     "pedra-neutra": { "$type": "color", "$value": "#D8DACD", "$description": "Fundo secundário, bordas · 30%" },

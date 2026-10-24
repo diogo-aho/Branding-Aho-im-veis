@@ -1,6 +1,6 @@
 # Cores: paleta 2026
 
-> Status: **em revisão**. Proposta definida por Diogo em outubro de 2026. Revisões: inclusão do Cinza ardósia verde, retirada do Bege areia e pigmento verde moderado na Pedra e no Preto.
+> Status: **aprovada**. Proposta definida por Diogo em outubro de 2026. Revisões: inclusão do Cinza ardósia verde, retirada do Bege areia e pigmento verde moderado na Pedra e no Preto.
 
 ![Paleta 2026](../referencias/2026/paleta-2026-revisada.png)
 

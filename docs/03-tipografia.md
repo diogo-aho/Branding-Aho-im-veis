@@ -1,32 +1,47 @@
 # Tipografia
 
-> Status: **pendente de decisão** (ver [`REVISAO.md`](../REVISAO.md)).
+> Status: **em revisão**. Ver as três direções em [`referencias/2026/opcoes-tipografia.png`](../referencias/2026/opcoes-tipografia.png).
 
-## 2023
+## 2023: o que a apresentação usa
 
-- **Manrope** (Google Fonts, gratuita) para textos.
-- O logotipo "Aho" é desenhado, não uma fonte instalável.
+O PDF da KM Designer não traz fontes embutidas, porque todos os textos foram convertidos em desenho. A análise abaixo combina o que a apresentação declara, o que está nos SVGs do logo e uma comparação visual.
 
-## 2026: proposta
-
-A Manrope é geométrica e um pouco técnica, o que combinava com a paleta turquesa e escura. A nova paleta é quente e natural, então vale testar:
-
-| Opção | Caráter | Licença |
+| Uso | Fonte | Grau de certeza |
 |---|---|---|
-| Manrope (manter) | Moderna, técnica | Gratuita (Google Fonts) |
-| Figtree | Humanista, amigável, combina com as curvas do logotipo | Gratuita (Google Fonts) |
-| Instrument Sans | Elegante, contemporânea | Gratuita (Google Fonts) |
+| Textos da marca (página 9) | **Manrope** (Regular e Bold) | Confirmado: aparece escrito na apresentação |
+| "imóveis" no logo | **Manrope Regular** | Confirmado: está nos SVGs originais |
+| "Aho" do logotipo | Desenho exclusivo, não é fonte | Confirmado (páginas 11 e 12) |
+| Títulos da apresentação ("Cores", "Logotipo"…) e capa | Uma grotesca neutra, da família da Helvetica | Visual. É a fonte do modelo de apresentação do estúdio, não da marca |
 
-Recomendação inicial: **Figtree** em texto e títulos, com pesos 400, 500 e 600. Ela conversa com a "tipografia humanista" do logotipo e é gratuita para web e impressão.
+Ou seja, a marca tem **uma fonte oficial: Manrope**.
 
-## Escala sugerida (web)
+## 2026: três direções
 
-| Uso | Tamanho | Peso | Altura de linha |
+Perfil: público de alto padrão, **luxo silencioso**, numa marca jovem, moderna, tecnológica, espiritualista e acolhedora.
+
+| Direção | Títulos | Textos / dados | Caráter |
 |---|---|---|---|
-| Título 1 | 48px | 500 | 1,1 |
-| Título 2 | 32px | 500 | 1,2 |
-| Título 3 | 24px | 500 | 1,3 |
-| Texto | 16–18px | 400 | 1,5 |
-| Legenda / selo | 13px | 500 | 1,4 |
+| **1 · Sereno editorial** | Instrument Serif (itálico para palavras-chave) | Manrope | Elegância silenciosa; mantém o elo com o "imóveis" do logo |
+| **2 · Acolhimento contemporâneo** | Fraunces Light (eixo SOFT) | Figtree | Curvas macias, mais afetiva e orgânica |
+| **3 · Minimal tecnológico** | Geist Light | Geist + Geist Mono | Só sem serifa; precisão e respiro |
 
-A fonte usada na imagem da paleta 2026 ainda não foi identificada. Se ela já foi escolhida, registre aqui.
+Todas são gratuitas (Google Fonts) e servem para web e impressão.
+
+### Alternativas pagas, para um nível acima
+
+| No lugar de | Opção paga |
+|---|---|
+| Instrument Serif / Fraunces | Canela, Editorial New, GT Sectra |
+| Manrope / Figtree / Geist | Söhne, Neue Haas Unica, Aeonik |
+
+### Ponto de atenção
+
+O "imóveis" do logo está desenhado em Manrope. Se a fonte de texto deixar de ser a Manrope (direções 2 e 3), o logo continua igual, mas a marca passa a ter duas sem serifa diferentes. As direções 2 e 3 só fazem sentido se aceitarmos isso ou redesenharmos o "imóveis" na nova fonte.
+
+## Regras de uso (valem para qualquer direção)
+
+- Títulos em peso leve (300–400) e tamanho generoso. O luxo silencioso vem do espaço, não do peso.
+- Itálico da serifa só em uma ou duas palavras por título, como "habitar" ou "presença".
+- Rótulos e selos em caixa alta, pequenos e com espaçamento largo (cerca de 0,15em).
+- Texto corrido com 16–18px e entrelinha de 1,5, em Preto ou Cinza ardósia.
+- Nada de negrito pesado em títulos nem de mais de duas famílias por peça.
