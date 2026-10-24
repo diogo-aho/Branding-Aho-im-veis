@@ -33,8 +33,6 @@ As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
 ├── tokens/
 │   ├── cores.css             ← variáveis CSS para site e materiais digitais
 │   └── cores.json            ← mesma paleta em JSON (Figma Tokens, Style Dictionary)
-├── assets/
-│   └── paleta-2026.svg       ← quadro da paleta com proporções
 ├── logos/                    ← SVG, PNG e PDF oficiais do logo (a receber)
 └── referencias/
     ├── 2023-km-designer/     ← páginas da apresentação original (JPG)
