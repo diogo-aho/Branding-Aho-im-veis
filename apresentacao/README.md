@@ -1,6 +1,6 @@
 # Apresentação · Branding 2026
 
-[`aho-imoveis-branding-2026.pdf`](aho-imoveis-branding-2026.pdf): 38 slides em 16:9 (1920 × 1080), na mesma estrutura da apresentação de 2023 da KM Designer, atualizada com a paleta, a tipografia e os logos aprovados em 2026.
+[`aho-imoveis-branding-2026.pdf`](aho-imoveis-branding-2026.pdf): 43 slides em 16:9 (1920 × 1080), na mesma estrutura da apresentação de 2023 da KM Designer, atualizada com a paleta, a tipografia e os logos aprovados em 2026.
 
 ![Visão geral](visao-geral.jpg)
 
@@ -13,7 +13,10 @@
 | 14–16 | Logotipo: grade e conceito |
 | 17–19 | Símbolo: grade e três leituras |
 | 20–28 | Resultado: versões do logo e versões de cor |
-| 29–37 | Universo visual: Instagram, stories, posts, celular, brindes, site, papelaria |
-| 38 | Encerramento: "Sonhe, realize, Aho." |
+| 29–34 | Universo visual: Instagram, stories dos bairros, templates, posts, ícone e site mobile |
+| 35–37 | Cartões de visita: arte com QR Code e fotos |
+| 38–40 | Brindes: uniforme, kit escritório, kit presente |
+| 41–42 | Site e papelaria |
+| 43 | Encerramento: "Sonhe, realize, Aho." |
 
 Fotos: ver [`CREDITOS.md`](CREDITOS.md).
