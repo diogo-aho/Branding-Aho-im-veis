@@ -30,6 +30,8 @@ As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
 │   ├── 04-logotipo-e-simbolo.md
 │   ├── 05-tom-de-voz.md
 │   └── 06-aplicacoes.md
+├── guia/
+│   └── 03-tipografia.pdf     ← guia de tipografia em slides (+ visão geral em PNG)
 ├── tokens/
 │   ├── cores.css             ← variáveis CSS para site e materiais digitais
 │   ├── cores.json            ← mesma paleta em JSON (Figma Tokens, Style Dictionary)

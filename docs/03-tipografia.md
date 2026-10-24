@@ -2,7 +2,9 @@
 
 > Status: **aprovada**: híbrida, **Manrope** + **Geist Mono**.
 
-![Comparativo](../referencias/2026/tipografia-3-opcoes.png)
+Guia visual: [`guia/03-tipografia.pdf`](../guia/03-tipografia.pdf)
+
+![Guia de tipografia](../guia/03-tipografia-visao-geral.png)
 
 ## Famílias
 
