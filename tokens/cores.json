@@ -1,17 +1,16 @@
 {
   "$description": "Aho imóveis: paleta 2026 (em revisão). Fonte: docs/02-cores.md",
   "cor": {
-    "branco-mineral": { "$type": "color", "$value": "#FAF8F4", "$description": "Fundo principal · 38%" },
-    "bege-areia": { "$type": "color", "$value": "#EEE7DA", "$description": "Fundo secundário · 32%" },
-    "pedra-neutra": { "$type": "color", "$value": "#DBD6CB", "$description": "Bordas e apoio · 10%" },
-    "preto-uva-passa": { "$type": "color", "$value": "#202020", "$description": "Texto e logo · 9%" },
+    "branco-mineral": { "$type": "color", "$value": "#FAF8F4", "$description": "Fundo principal · 50%" },
+    "pedra-neutra": { "$type": "color", "$value": "#D8DACD", "$description": "Fundo secundário, bordas · 30%" },
+    "preto-uva-passa": { "$type": "color", "$value": "#1C211E", "$description": "Texto e logo · 9%" },
     "cinza-ardosia": { "$type": "color", "$value": "#59625A", "$description": "Texto de apoio, fundos de seção · 8%" },
     "verde-folha": { "$type": "color", "$value": "#4F7A45", "$description": "Cor de marca, ações · 2%" },
     "verde-vibrante": { "$type": "color", "$value": "#DBFF00", "$description": "Destaque, somente sobre escuro · 1%" }
   },
   "papel": {
     "fundo": { "$type": "color", "$value": "{cor.branco-mineral}" },
-    "fundo-secundario": { "$type": "color", "$value": "{cor.bege-areia}" },
+    "fundo-secundario": { "$type": "color", "$value": "{cor.pedra-neutra}" },
     "borda": { "$type": "color", "$value": "{cor.pedra-neutra}" },
     "texto": { "$type": "color", "$value": "{cor.preto-uva-passa}" },
     "texto-apoio": { "$type": "color", "$value": "{cor.cinza-ardosia}" },

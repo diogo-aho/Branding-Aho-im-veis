@@ -4,7 +4,10 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 
 ## 1. Paleta
 
-- [ ] **Aprovar a paleta 2026** e as proporções revisadas (38 / 32 / 10 / 9 / 8 / 2 / 1).
+- [ ] **Aprovar a paleta 2026** e as proporções revisadas (50 / 30 / 9 / 8 / 2 / 1).
+- [x] **Retirar o Bege areia** (muito próximo da Pedra). Decidido.
+- [x] **Pigmento verde na Pedra e no Preto.** Decidido: moderado (Pedra `#D8DACD`, Preto `#1C211E`).
+- [ ] **Nomes:** manter "Pedra neutra" e "Preto uva passa" ou renomear (ex.: "Pedra líquen", "Preto musgo")?
 - [ ] **Confirmar que o turquesa e o roxo saem totalmente.** Peças antigas (Instagram, papelaria, camisetas) vão precisar ser refeitas.
 - [ ] **Cor principal do logo:** Preto uva passa (sóbrio) ou Verde folha (mais marcante)? Recomendação: Preto como padrão e Verde folha como versão de destaque.
 - [x] **Cinza para texto secundário.** Decidido: **Cinza ardósia verde `#59625A`** (8%). ~~Os três neutros são próximos demais entre si (contraste de 1,2 a 1,4) e nenhum serve para texto de apoio, como legendas, datas ou metragem. Sugestão: `#5E5A52` ("Cinza terra"), que tem contraste ≥ 4,5 sobre Branco, Bege e Pedra.~~
@@ -37,3 +40,6 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 |---|---|---|
 | 2026-10 | Nova paleta proposta (neutros quentes + verdes) | Diogo |
 | 2026-10 | Inclusão do Cinza ardósia verde `#59625A`; proporções revisadas | Diogo |
+| 2026-10 | Retirada do Bege areia; Pedra `#D8DACD` e Preto `#1C211E` com pigmento verde; proporções 50/30/9/8/2/1 | Diogo |
+
+> ⚠️ Os arquivos em `logos/2026/` ainda usam a Pedra e o Preto antigos e incluem versões sobre Bege areia. Precisam ser regerados.
