@@ -1,47 +1,67 @@
 # Tipografia
 
-> Status: **em revisão**. Ver as três direções em [`referencias/2026/opcoes-tipografia.png`](../referencias/2026/opcoes-tipografia.png).
+> Status: **aprovada**: híbrida, **Manrope** + **Geist Mono**.
 
-## 2023: o que a apresentação usa
+![Comparativo](../referencias/2026/tipografia-3-opcoes.png)
 
-O PDF da KM Designer não traz fontes embutidas, porque todos os textos foram convertidos em desenho. A análise abaixo combina o que a apresentação declara, o que está nos SVGs do logo e uma comparação visual.
+## Famílias
 
-| Uso | Fonte | Grau de certeza |
-|---|---|---|
-| Textos da marca (página 9) | **Manrope** (Regular e Bold) | Confirmado: aparece escrito na apresentação |
-| "imóveis" no logo | **Manrope Regular** | Confirmado: está nos SVGs originais |
-| "Aho" do logotipo | Desenho exclusivo, não é fonte | Confirmado (páginas 11 e 12) |
-| Títulos da apresentação ("Cores", "Logotipo"…) e capa | Uma grotesca neutra, da família da Helvetica | Visual. É a fonte do modelo de apresentação do estúdio, não da marca |
-
-Ou seja, a marca tem **uma fonte oficial: Manrope**.
-
-## 2026: três direções
-
-Perfil: público de alto padrão, **luxo silencioso**, numa marca jovem, moderna, tecnológica, espiritualista e acolhedora.
-
-| Direção | Títulos | Textos / dados | Caráter |
+| Família | Papel | Pesos usados | Licença |
 |---|---|---|---|
-| **1 · Sereno editorial** | Instrument Serif (itálico para palavras-chave) | Manrope | Elegância silenciosa; mantém o elo com o "imóveis" do logo |
-| **2 · Acolhimento contemporâneo** | Fraunces Light (eixo SOFT) | Figtree | Curvas macias, mais afetiva e orgânica |
-| **3 · Minimal tecnológico** | Geist Light | Geist + Geist Mono | Só sem serifa; precisão e respiro |
+| **Manrope** | Títulos, textos, botões | Light 300 · Regular 400 · Medium 500 · SemiBold 600 | Gratuita (SIL OFL) · [Google Fonts](https://fonts.google.com/specimen/Manrope) |
+| **Geist Mono** | Somente dados e rótulos: metragem, preço, código do imóvel, endereço web, selos | Regular 400 | Gratuita (SIL OFL) · [Google Fonts](https://fonts.google.com/specimen/Geist+Mono) |
 
-Todas são gratuitas (Google Fonts) e servem para web e impressão.
+O "Aho" do logotipo é um desenho exclusivo e não uma fonte. O "imóveis" do logo está em Manrope Regular, então o logo e a tipografia da marca são da mesma família.
 
-### Alternativas pagas, para um nível acima
+**Por que híbrida:** mantém a Manrope, que já era da marca e está no logo. O peso Light deixa a fonte mais silenciosa e sofisticada, e a Geist Mono traz o lado tecnológico só onde faz sentido, nos dados. O resultado é uma evolução, não uma ruptura.
 
-| No lugar de | Opção paga |
+## Escala (web)
+
+| Estilo | Família | Tamanho | Peso | Entrelinha | Espaçamento |
+|---|---|---|---|---|---|
+| Display | Manrope | 64px | 300 | 1,0 | −0,03em |
+| Título 1 | Manrope | 44px | 300 | 1,05 | −0,03em |
+| Título 2 | Manrope | 30px | 400 | 1,15 | −0,02em |
+| Título 3 | Manrope | 22px | 500 | 1,25 | −0,01em |
+| Texto | Manrope | 16–18px | 400 | 1,55 | 0 |
+| Texto pequeno | Manrope | 14px | 400 | 1,5 | 0 |
+| Dado | Geist Mono | 13–14px | 400 | 1,4 | 0 |
+| Rótulo / selo | Geist Mono | 11–12px | 400 | 1,2 | +0,08em, caixa alta |
+
+No impresso, use as mesmas proporções. Por exemplo, Display em 40–60pt e texto em 9,5–11pt.
+
+## Regras de uso
+
+1. **Títulos leves.** Use Light (300) nos títulos grandes. O luxo silencioso vem do espaço e da leveza, não do negrito.
+2. **Letras um pouco mais juntas nos títulos** (−0,02 a −0,03em). Nos textos, use o espaçamento normal.
+3. **Mono só para dados.** Use em metragem, número de suítes, preço, código, site e selos ("EXCLUSIVO", "LANÇAMENTO"). **Nunca em frases ou parágrafos.**
+4. **No máximo dois pesos de Manrope por peça.** Por exemplo, 300 no título e 400 no texto, ou 400 no texto e 600 em destaques.
+5. **Cores do texto:** Preto uva passa no texto principal, Cinza ardósia nos textos de apoio e dados, Branco mineral sobre fundos escuros. O Verde vibrante só em palavras de destaque sobre fundo escuro.
+6. **Frases curtas e serenas** nos títulos ("Um lar para habitar com presença."). O tom de voz completa o que a fonte não diz.
+
+## Uso no código
+
+```css
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600&family=Geist+Mono:wght@400&display=swap');
+
+:root {
+  --aho-fonte: 'Manrope', system-ui, sans-serif;
+  --aho-fonte-dados: 'Geist Mono', ui-monospace, monospace;
+}
+```
+
+## 2023: o que a apresentação original usava
+
+| Uso | Fonte |
 |---|---|
-| Instrument Serif / Fraunces | Canela, Editorial New, GT Sectra |
-| Manrope / Figtree / Geist | Söhne, Neue Haas Unica, Aeonik |
+| Textos da marca | Manrope (confirmado: na apresentação e no arquivo de tipografia) |
+| "imóveis" no logo | Manrope Regular (confirmado nos SVGs) |
+| Títulos da apresentação | Uma sem serifa neutra, parecida com a Helvetica. É a fonte do modelo do estúdio, não da marca |
 
-### Ponto de atenção
+## Opções avaliadas e descartadas
 
-O "imóveis" do logo está desenhado em Manrope. Se a fonte de texto deixar de ser a Manrope (direções 2 e 3), o logo continua igual, mas a marca passa a ter duas sem serifa diferentes. As direções 2 e 3 só fazem sentido se aceitarmos isso ou redesenharmos o "imóveis" na nova fonte.
-
-## Regras de uso (valem para qualquer direção)
-
-- Títulos em peso leve (300–400) e tamanho generoso. O luxo silencioso vem do espaço, não do peso.
-- Itálico da serifa só em uma ou duas palavras por título, como "habitar" ou "presença".
-- Rótulos e selos em caixa alta, pequenos e com espaçamento largo (cerca de 0,15em).
-- Texto corrido com 16–18px e entrelinha de 1,5, em Preto ou Cinza ardósia.
-- Nada de negrito pesado em títulos nem de mais de duas famílias por peça.
+| Opção | Motivo |
+|---|---|
+| Instrument Serif + Manrope | Elegante, mas a serifa afastava do lado jovem e tecnológico |
+| Fraunces + Figtree | Acolhedora, mas pouco tecnológica e tirava a Manrope |
+| Geist + Geist Mono | Muito tech e fria; exigiria redesenhar o "imóveis" do logo |

@@ -1,0 +1,16 @@
+/* Aho imóveis: tipografia 2026 (aprovada). Fonte: docs/03-tipografia.md */
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600&family=Geist+Mono:wght@400&display=swap');
+
+:root {
+  --aho-fonte: 'Manrope', system-ui, sans-serif;
+  --aho-fonte-dados: 'Geist Mono', ui-monospace, monospace;
+}
+
+.aho-display  { font: 300 64px/1.0 var(--aho-fonte); letter-spacing: -0.03em; }
+.aho-titulo-1 { font: 300 44px/1.05 var(--aho-fonte); letter-spacing: -0.03em; }
+.aho-titulo-2 { font: 400 30px/1.15 var(--aho-fonte); letter-spacing: -0.02em; }
+.aho-titulo-3 { font: 500 22px/1.25 var(--aho-fonte); letter-spacing: -0.01em; }
+.aho-texto    { font: 400 17px/1.55 var(--aho-fonte); }
+.aho-pequeno  { font: 400 14px/1.5 var(--aho-fonte); }
+.aho-dado     { font: 400 13px/1.4 var(--aho-fonte-dados); }
+.aho-rotulo   { font: 400 11px/1.2 var(--aho-fonte-dados); letter-spacing: 0.08em; text-transform: uppercase; }
