@@ -18,11 +18,8 @@ O desenho não foi alterado. A palavra "imóveis" foi convertida de texto para d
 | 07 | Branco mineral | Verde folha |
 | 08 | Verde vibrante | Preto uva passa |
 | 09 | Preto uva passa | Verde vibrante |
-| 10 | Verde vibrante | Pedra neutra ⚠️ |
-| 11 | Verde vibrante | Bege areia ⚠️ |
-| 12 | Pedra neutra | Verde vibrante ⚠️ |
-| 13 | Bege areia | Verde vibrante ⚠️ |
+| 10 | Verde vibrante + sombra lateral suave | Pedra neutra |
 
-⚠️ Contraste muito baixo (1,1 a 1,3:1). O logo quase some. Ver [contraste](../../docs/02-cores.md#contraste-wcag-21).
+A versão 10 leva uma sombra suave (Preto uva passa a 35%, deslocada para a direita) para o logo se destacar do fundo. Mesmo assim, o contraste é baixo: use em peças grandes e nunca em tamanho pequeno.
 
 Status: **aguardando aprovação**. Depois da escolha, geramos o kit final com fundo transparente, versões de símbolo isolado e vertical, PNGs e área de proteção.
