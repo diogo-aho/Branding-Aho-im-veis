@@ -3,7 +3,7 @@
 Repositório central da identidade visual da **Aho imóveis**: guia de marca, cores, tipografia, logotipo, aplicações e o histórico de decisões.
 
 > *"Não estamos aqui para vender propriedades, mas para realizar seus sonhos."*
-> Assinatura: **Sonhe, realize, Aho!**
+> Assinatura: **Sonhe, realize, Aho.**
 
 ## Status
 
@@ -12,7 +12,7 @@ Repositório central da identidade visual da **Aho imóveis**: guia de marca, co
 | Identidade 2023 (KM Designer) | Documentada em [`docs/01-historico-2023.md`](docs/01-historico-2023.md) |
 | Nova paleta 2026 | **Aprovada** · [`docs/02-cores.md`](docs/02-cores.md) |
 | Tipografia | **Aprovada**: Manrope + Geist Mono · [`docs/03-tipografia.md`](docs/03-tipografia.md) |
-| Logotipo e símbolo | Mantidos; cores a redefinir · [`docs/04-logotipo-e-simbolo.md`](docs/04-logotipo-e-simbolo.md) |
+| Logotipo e símbolo | Mantidos; Preto musgo como padrão · [`docs/04-logotipo-e-simbolo.md`](docs/04-logotipo-e-simbolo.md) |
 | Arquivos do logo 2026 | 4 tipos × 12 cores, SVG + PNG · [`logos/README.md`](logos/README.md) |
 
 As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
@@ -36,7 +36,7 @@ As decisões em aberto estão em [`REVISAO.md`](REVISAO.md).
 │   ├── cores.css             ← variáveis CSS para site e materiais digitais
 │   ├── cores.json            ← mesma paleta em JSON (Figma Tokens, Style Dictionary)
 │   └── tipografia.css        ← fontes e escala tipográfica
-├── logos/                    ← SVG, PNG e PDF oficiais do logo (a receber)
+├── logos/                    ← logos 2026 (com fundo e transparentes, SVG + PNG) e originais
 └── referencias/
     ├── 2023-km-designer/     ← páginas da apresentação original (JPG)
     └── 2026/                 ← material da revisão atual

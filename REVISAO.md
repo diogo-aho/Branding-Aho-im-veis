@@ -8,8 +8,8 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 - [x] **Retirar o Bege areia** (muito próximo da Pedra). Decidido.
 - [x] **Pigmento verde na Pedra e no Preto.** Decidido: moderado (Pedra `#D8DACD`, Preto `#1C211E`).
 - [x] **Nomes:** renomeadas para **Pedra líquen** (`#D8DACD`) e **Preto musgo** (`#1C211E`).
-- [ ] **Confirmar que o turquesa e o roxo saem totalmente.** Peças antigas (Instagram, papelaria, camisetas) vão precisar ser refeitas.
-- [ ] **Cor principal do logo:** Preto uva passa (sóbrio) ou Verde folha (mais marcante)? Recomendação: Preto como padrão e Verde folha como versão de destaque.
+- [x] **Turquesa e roxo saem totalmente.** Peças antigas (Instagram, papelaria, camisetas) vão precisar ser refeitas.
+- [x] **Cor principal do logo:** **Preto musgo** como padrão, com o **Verde vibrante** em pontos de destaque (sobre fundos escuros).
 - [x] **Cinza para texto secundário.** Decidido: **Cinza ardósia verde `#59625A`** (8%). ~~Os três neutros são próximos demais entre si (contraste de 1,2 a 1,4) e nenhum serve para texto de apoio, como legendas, datas ou metragem. Sugestão: `#5E5A52` ("Cinza terra"), que tem contraste ≥ 4,5 sobre Branco, Bege e Pedra.~~
 - [ ] **Verde vibrante:** confirmar o uso apenas sobre escuro e como destaque (selos "Lançamento" e "Exclusivo", botão em fundo escuro).
 - [ ] **Equivalências CMYK e Pantone** com a gráfica, com atenção especial ao `#DBFF00`.
@@ -26,12 +26,12 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 
 ## 4. Elementos de apoio
 
-- [ ] Substituir o degradê preto/cinza tempestade de 2023. Sugestões: textura de papel ou granulado em Bege areia, ou fotografia com luz natural.
-- [ ] Definir o estilo de fotografia: luz natural e tons quentes combinam com a nova paleta.
+- [x] **Elemento de apoio:** texturas naturais leves com luz e sombra (substitui o degradê preto/cinza de 2023).
+- [x] **Fotografia:** luz natural, sombras suaves, materiais naturais; imagens de bancos gratuitos de alta qualidade na apresentação.
 
 ## 5. Tom de voz
 
-- [ ] Manter "Sonhe, realize, Aho!" como assinatura?
+- [x] **Assinatura suavizada:** "Sonhe, realize, Aho."
 - [ ] O tom continua no "sonho" ou ganha um lado de lar, bem-estar e natureza?
 
 ## Histórico
@@ -42,5 +42,6 @@ Registro das decisões em aberto. Marque `[x]` quando decidido e anote a decisã
 | 2026-10 | Inclusão do Cinza ardósia verde `#59625A`; proporções revisadas | Diogo |
 | 2026-10 | Paleta 2026 aprovada | Diogo |
 | 2026-10 | Cores renomeadas: Pedra líquen e Preto musgo | Diogo |
+| 2026-10 | Logo padrão em Preto musgo, com Verde vibrante em destaques; apoio com texturas naturais e luz e sombra; assinatura "Sonhe, realize, Aho." | Diogo & Rafael |
 | 2026-10 | Tipografia aprovada: Manrope + Geist Mono | Diogo |
 | 2026-10 | Retirada do Bege areia; Pedra `#D8DACD` e Preto `#1C211E` com pigmento verde; proporções 50/30/9/8/2/1 | Diogo |
