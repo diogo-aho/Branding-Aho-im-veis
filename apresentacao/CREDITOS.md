@@ -32,6 +32,9 @@ Todas as fotos são do **[Pexels](https://www.pexels.com)** e estão sob a [lice
 | `pexels-12767100.jpg` | Story Itaim Bibi | Torre residencial com varandas verdes | [pexels.com/photo/12767100](https://www.pexels.com/photo/12767100/) |
 | `pexels-31288944.jpg` | Essência: tecnológico | Arquitetura moderna com vegetação | [pexels.com/photo/31288944](https://www.pexels.com/photo/31288944/) |
 | `pexels-28729467.jpg` | Reserva | Living duplex de alto padrão | [pexels.com/photo/28729467](https://www.pexels.com/photo/28729467/) |
+| `pexels-8572166.jpg` | Story Jardins, Instagram | Living de apartamento com vista para a cidade | [pexels.com/photo/8572166](https://www.pexels.com/photo/8572166/) |
+| `pexels-16583796.jpg` | Story Itaim Bibi, Instagram | Torre residencial | [pexels.com/photo/16583796](https://www.pexels.com/photo/16583796/) |
+| `pexels-8221720.jpg` | Reserva | Fachada de edifício com varandas | [pexels.com/photo/8221720](https://www.pexels.com/photo/8221720/) |
 
 ## Imagens geradas e mockups
 
@@ -40,6 +43,7 @@ Todas as fotos são do **[Pexels](https://www.pexels.com)** e estão sob a [lice
 | `gerado-roupas.jpg` | Uniforme: polo e camiseta | Foto gerada por IA (Runway) **sem marca**; logo real aplicado por cima, com luz e textura da foto |
 | `gerado-objetos.jpg` | Kit escritório: garrafa térmica, caderno e caneta | Idem |
 | `gerado-vinho.jpg` | Kit presente: caixa de vinho e cartões | Idem; os cartões usam a arte real com QR Code |
+| `textura-preto-musgo.jpg` | Encerramento | Textura de parede (`pexels-4304748`) tingida em Preto musgo |
 | `mockup-cartoes-1/2/3.jpg` | Cartões de visita | Arte real dos cartões (com QR Code funcional) sobre fotos do Pexels (`pexels-4304748`, `pexels-8774406`), com sombras de `pexels-16408400`, `pexels-20435869` e `pexels-5797992` |
 
 Os objetos e cenários são ilustrativos. As artes dos cartões ficam em [`cartoes/`](cartoes/).
